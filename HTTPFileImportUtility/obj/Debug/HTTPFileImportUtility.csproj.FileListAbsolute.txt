@@ -1,0 +1,5 @@
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\HTTPFileImportUtility\bin\Debug\HTTPFileImportUtility.dll
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\HTTPFileImportUtility\bin\Debug\HTTPFileImportUtility.pdb
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\HTTPFileImportUtility\obj\Debug\ResolveAssemblyReference.cache
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\HTTPFileImportUtility\obj\Debug\HTTPFileImportUtility.dll
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\HTTPFileImportUtility\obj\Debug\HTTPFileImportUtility.pdb

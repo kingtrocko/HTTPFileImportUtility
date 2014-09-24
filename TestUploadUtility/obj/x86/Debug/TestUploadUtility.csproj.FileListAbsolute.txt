@@ -1,0 +1,7 @@
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\TestUploadUtility\bin\Debug\TestUploadUtility.exe
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\TestUploadUtility\bin\Debug\TestUploadUtility.pdb
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\TestUploadUtility\bin\Debug\HTTPFileImportUtility.dll
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\TestUploadUtility\bin\Debug\HTTPFileImportUtility.pdb
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\TestUploadUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\TestUploadUtility\obj\x86\Debug\TestUploadUtility.exe
+c:\users\nfabian\documents\visual studio 2010\Projects\HTTPFileImportUtility\TestUploadUtility\obj\x86\Debug\TestUploadUtility.pdb

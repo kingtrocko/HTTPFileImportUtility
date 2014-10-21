@@ -98,7 +98,8 @@ namespace HTTPFileImportUtility
                 requestStream.Write(formData, 0, formData.Length);
                 requestStream.Close();
             }
-
+            
+            //Send the request to the server
             return request.GetResponse() as HttpWebResponse;
         }
 
